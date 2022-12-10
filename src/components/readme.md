@@ -1,0 +1,1 @@
+-> the filters are stored in the searcb js file
