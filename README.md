@@ -6,4 +6,4 @@ A react app that lists the houses and apartments for rent based on four layers o
 - Property type
 - Price 
 
-The project is open for contributions and contributions are welcome.
+The project is open for contributions.
